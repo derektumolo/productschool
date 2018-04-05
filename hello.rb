@@ -1,8 +1,6 @@
 puts "Hello world!"
 
 gift = [
-          "half of a leftover burrito",
-          "a day-old cup of coffee",
           "a tesla",
           "a life-size quadrocopter",
           "a slice of stale wedding cake",
